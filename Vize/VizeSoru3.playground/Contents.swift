@@ -1,7 +1,7 @@
 import UIKit
 
 let array : [Int] = [2,5,9,12] // sıralı şekilde verildiği var sayıldı
-//var number : Int = 13
+var number : Int = 13
 
 func findIndex (array : [Int], num : Int ) -> Int{
     var tempArray : [Int] = array
